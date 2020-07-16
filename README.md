@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Responsive Web Design.
 - 👯 I’m looking to collaborate on a front end project
 - 💬 Ask me about Front End Development
-- 📫 How to reach me: jonthedev@gmail.com 
+- 📫 How to reach me: jonthedev0@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to breakdance!
 
