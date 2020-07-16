@@ -1,4 +1,4 @@
-![](images/portfolio.png)
+![](./images/portfolio.png)
 
 - 🔭 I’m currently working on my health (Calisthenics) & mini projects for my online portfolio at my website www.jonathankaonga.com
 - 🌱 I’m currently learning Responsive Web Design & JavaScript.
