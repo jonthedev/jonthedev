@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/jonthedev"><img src="" alt="Jon The Dev Logo" width="60%"></a>
+  <a href="https://github.com/jonthedev"><img src="https://github.com/jonthedev/jonthedev/" alt="Jon The Dev Logo" width="60%"></a>
 </p>
   
 I'm Jonathan, a developer and visual artist from London England, currently based in the Netherlands.
