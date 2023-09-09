@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 :uk: I'm from London / Currently live in Amsterdam :netherlands:<br>
-:chart_with_upwards_trend: Results-oriented software and technology professional with over 3 years of experience in web application and website development across diverse industries.<br>:clipboard: Collaborated with prestigious clients like Van Lanschot Kempen and ANWB to deliver exceptional solutions which reuslte din national awards<br>:computer: I'm actively working to become a full-stack dev<br>:school: I'm currently learning TypeScript & NodeJs<br>:sunglasses: Fun Fact - I dance on the floor and inside the terminal<br>
+:chart_with_upwards_trend: Results-oriented software and technology professional with over 3 years of experience in web application and website development across diverse industries.<br>:clipboard: Collaborated with prestigious clients like Van Lanschot Kempen and ANWB to deliver exceptional solutions which resulted in national awards ![WebsiteOfTheYear2022-ANWB](https://www.websitevhjaar.nl/past-winners/index.html)<br>:computer: I'm actively working to become a full-stack dev<br>:school: I'm currently learning TypeScript & NodeJs<br>:sunglasses: Fun Fact - I dance on the floor and inside the terminal<br>
 
 ## 🌐 Socials:
 
