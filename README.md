@@ -1,12 +1,41 @@
-# 💫 About Me:
+## Introduction
 
-:uk: I'm from London / Currently live in Amsterdam :netherlands:<br>
-:chart_with_upwards_trend: Results-oriented software and technology professional with over 3 years of professional experience in web development.<br>:clipboard: Collaborated with clients such as Van Lanschot Kempen and ANWB which resulted in national awards [WebsiteOfTheYear2022-ANWB](https://www.websitevhjaar.nl/past-winners/index.html)<br>:computer: I'm actively working to become a full-stack dev<br>:school: I'm currently learning TypeScript & NodeJs<br>:sunglasses: Fun Fact - I dance on the floor and inside the terminal<br>
+🥷 Jonathan Kaonga
 
-## 🌐 Socials:
+🚀 Web / Creative Developer
+
+📍 London 🇬🇧 / Amsterdam 🇳🇱
+
+🌐 https://j-dev.online/
+
+---
+
+## About Jonathan Kaonga
+
+Aspiring to become a full-stack developer, I am fueled by the dynamic nature of web development and the boundless possibilities it offers. I thrive on collaborating with like-minded professionals to brainstorm innovative features and discover robust solutions.
+
+I specialize in front-end development, crafting pixel-perfect UIs that not only look good but also have features that elevate user experiences.
+
+I'm currently learning TDD with Vitest and improving my TypeScript skills.
+
+I have the legal right to work within the United Kingdom and The Netherlands. I'm open to exploring opportunities beyond these regions however a visa sponsorship will be required.
+
+Beyond coding, I'm a dance and travel enthusiast. Exploring diverse cultures fuels my creativity, enriching my approach to web development.
+
+Let's build the future together, one line of code at a time!
+
+✨🎨
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonathan-kaonga-5a04871b5/)
 
+# Experience
+Collaborated with clients such as Van Lanschot Kempen and ANWB which resulted in national awards [WebsiteOfTheYear2022-ANWB](https://www.websitevhjaar.nl/past-winners/index.html)<br> 
+
 # 💻 Tech Stack:
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
