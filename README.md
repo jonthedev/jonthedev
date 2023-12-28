@@ -16,7 +16,7 @@ Aspiring to become a full-stack developer, I am fueled by the dynamic nature of 
 
 I specialize in front-end development, crafting pixel-perfect UIs that not only look good but also have features that elevate user experiences.
 
-I'm currently learning TDD with Vitest and improving my TypeScript skills.
+I'm currently improving my TypeScript skills by following Matt Pocock's [Total TypeScript](https://www.totaltypescript.com/) and learning Unit Testing with Nathan Krasney's [Real World TypeScript Unit Testing](https://www.udemy.com/course/real-world-typescript-unit-testing/).
 
 I have the legal right to work within the United Kingdom and The Netherlands. Opportunities beyond these regions will need a visa sponsorship or be 100% remote.
 
