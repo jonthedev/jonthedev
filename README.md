@@ -18,7 +18,7 @@ I specialize in front-end development, crafting pixel-perfect UIs that not only 
 
 I'm currently learning TDD with Vitest and improving my TypeScript skills.
 
-I have the legal right to work within the United Kingdom and The Netherlands. I'm open to exploring opportunities beyond these regions however a visa sponsorship will be required.
+I have the legal right to work within the United Kingdom and The Netherlands. Opportunities beyond these regions will need a visa sponsorship or be 100% remote.
 
 Beyond coding, I'm a dance and travel enthusiast. Exploring diverse cultures fuels my creativity, enriching my approach to web development.
 
