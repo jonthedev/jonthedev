@@ -26,7 +26,7 @@ Let's build the future together, one line of code at a time!
 
 ✨🎨
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonathan-kaonga-5a04871b5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-kaonga-5a04871b5/)
 
 # Experience
 Collaborated with clients such as Van Lanschot Kempen and ANWB which resulted in national awards [WebsiteOfTheYear2022-ANWB](https://www.websitevhjaar.nl/past-winners/index.html)<br> 
