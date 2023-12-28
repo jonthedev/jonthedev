@@ -29,7 +29,9 @@ Let's build the future together, one line of code at a time!
 [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/jonathan-kaonga-5a04871b5/)
 
 # Experience
-Collaborated with clients such as Van Lanschot Kempen and ANWB which resulted in national awards [WebsiteOfTheYear2022-ANWB](https://www.websitevhjaar.nl/past-winners/index.html)<br> 
+
+Successfully helped start-ups such as Technology Catalogue to improve their software and speed up their development practices.
+Worked as a Front End Consultant for Van Lanschot Kempen and ANWB which resulted in national awards [WebsiteOfTheYear2022-ANWB](https://www.websitevhjaar.nl/past-winners/index.html) 
 
 # 💻 Tech Stack
 
