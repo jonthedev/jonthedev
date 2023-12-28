@@ -31,7 +31,7 @@ Let's build the future together, one line of code at a time!
 # Experience
 Collaborated with clients such as Van Lanschot Kempen and ANWB which resulted in national awards [WebsiteOfTheYear2022-ANWB](https://www.websitevhjaar.nl/past-winners/index.html)<br> 
 
-# 💻 Tech Stack & whatever gets the job done 😎
+# 💻 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
