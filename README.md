@@ -32,6 +32,7 @@ Let's build the future together, one line of code at a time!
 
 Successfully helped start-ups such as Technology Catalogue to improve their software and speed up their development practices.
 
+
 Worked as a Front End Consultant at IO for client Van Lanschot Kempen and ANWB which resulted in national awards [WebsiteOfTheYear2022-ANWB](https://www.websitevhjaar.nl/past-winners/index.html) 
 
 # 💻 Tech Stack
