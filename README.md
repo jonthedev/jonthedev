@@ -2,9 +2,9 @@
 
 🥷 Jonathan Kaonga
 
-🚀 Web / Creative Developer
+🚀 Web Devloper | Front End Specialist
 
-📍 London 🇬🇧 / Amsterdam 🇳🇱
+📍 London 🇬🇧 | Amsterdam 🇳🇱
 
 🌐 https://j-dev.online/
 
