@@ -1,12 +1,11 @@
-# Introduction
+<a href="https://j-dev.online">
+<img
+    alt="Turning ideas into interactive reality"
+    src="./JDEV-HERO-IMG.png"
+  />
+</a>
 
-🥷 Jonathan Kaonga
-
-🚀 Web Developer | Front End Specialist
-
-📍 London 🇬🇧 | Amsterdam 🇳🇱
-
-🌐 https://j-dev.online/
+[Learn more about me](https://j-dev.online/#about)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/jonathan-kaonga-5a04871b5/)
 
