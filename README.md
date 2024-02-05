@@ -37,11 +37,7 @@ My goal is to empower teams to deliver exceptional results efficiently, ensuring
 
 ### What I'm learning 🧠
 
-1. [Design Patterns by Refactoring Guru](https://refactoring.guru/design-patterns)
-
-2. [The foundational principles of UML and its significance in software design](https://www.udemy.com/course/uml-bootcamp-master-unified-modeling-language-uml-today/learn/lecture/39822164?start=15#overview)
-
-3. [Google Cloud computing foundations](https://www.cloudskillsboost.google/paths/36)
+[AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 ### Work Status: Looking for the next opportunity 🪪
 
