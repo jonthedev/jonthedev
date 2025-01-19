@@ -23,12 +23,6 @@
 
 ---
 
-### Experience 🕵🏾
-
-Successfully helped start-ups such as Technology Catalogue to improve their software and speed up their development practices.
-
-Worked as a Front End Consultant for Dutch bank Van Lanschot Kempen and insurance company ANWB which resulted in the national award [WebsiteOfTheYear2022-ANWB](https://www.websitevhjaar.nl/past-winners/index.html) in the traffic category.
-
 ### What I'm passionate about 💪🏿
 
 I specialize in crafting maintainable, scalable software solutions to simplify our developers' workflows. By prioritizing clean architecture and reusable components, I aim to optimize productivity and foster collaboration.
@@ -37,12 +31,4 @@ My goal is to empower teams to deliver exceptional results efficiently, ensuring
 
 ### What I'm learning 🧠
 
-[AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-
-### Work Status: Looking for the next opportunity 🪪
-
-I have the legal right to work within the United Kingdom and The Netherlands. Opportunities beyond these regions will need a visa sponsorship or be 100% remote.
-
-### Hobbies ✨🎨
-
-Dancing, traveling and Music (as loud as possible)
+[GenAI Essentials](https://app.exampro.co/student/journey/exp-genai-001)
