@@ -49,7 +49,7 @@ Specializing in Vue 3, Nuxt, and modern component design, I focus on performance
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMTIgMkwyIDdMNCAxMkwxMiAyMkwyMCAxMkwyMiA3TDEyIDJaIiBmaWxsPSIjRkY5OTAwIi8+CiAgPHBhdGggZD0iTTEyIDRMNC41IDhMNiAxMS41TDEyIDE5TDE4IDExLjVMMTkuNSA4TDEyIDRaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4=)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logoColor=white)&nbsp;
 
 ### Testing
 
