@@ -49,6 +49,9 @@ Specializing in Vue 3, Nuxt, and modern component design, I focus on performance
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
+
+### Cloud & Infrastructure
+
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logoColor=white)&nbsp;
 
 ### Testing
