@@ -16,8 +16,6 @@ Hi, I'm **Jonathan Kaonga** — a Senior Frontend Engineer based in Amsterdam wi
 
 Specializing in Vue 3, Nuxt, and modern component design, I focus on performance optimization and improving developer workflows—not just writing features, but elevating how teams ship software.
 
-**2026 Focus:** Transitioning into creative coding with Vue/Nuxt + 3D & advanced motion. Exploring GSAP, Three.js, and shaders to build immersive web experiences.
-
 ---
 
 ## 💻 Tech Stack
@@ -34,7 +32,6 @@ Specializing in Vue 3, Nuxt, and modern component design, I focus on performance
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Nuxt](https://img.shields.io/badge/-Nuxt%203-05122A?style=flat&logo=nuxt)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Pinia](https://img.shields.io/badge/-Pinia-05122A?style=flat&logo=pinia)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
@@ -61,6 +58,11 @@ Specializing in Vue 3, Nuxt, and modern component design, I focus on performance
 ![GSAP](https://img.shields.io/badge/-GSAP-05122A?style=flat&logo=greensock)&nbsp;
 ![Three.js](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=three.js)&nbsp;
 ![TresJS](https://img.shields.io/badge/-TresJS-05122A?style=flat&logo=vue.js)&nbsp;
+
+### Also Experienced With
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 
 ---
 
