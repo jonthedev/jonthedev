@@ -12,7 +12,9 @@
 
 ## 👋 About
 
-Hi, I'm **Jonathan Kaonga** — a Senior Frontend Engineer based in Amsterdam with 5+ years of experience building scalable, performant web applications. Currently at [Thalex](https://thalex.com/), shaping front-end architecture and delivering real-time trading interfaces in Vue/Nuxt.
+Hi, I'm **Jonathan Kaonga** — a Senior Frontend Engineer based in Amsterdam with 5+ years of experience building scalable, performant web applications across diverse industries.
+
+Currently at [Thalex](https://thalex.com/), shaping front-end architecture and delivering real-time trading interfaces in Vue/Nuxt.
 
 Specializing in Vue 3, Nuxt, and modern component design, I focus on performance optimization and improving developer workflows—not just writing features, but elevating how teams ship software.
 
