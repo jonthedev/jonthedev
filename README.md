@@ -48,7 +48,8 @@ I build scalable, secure software with a focus on performance engineering and de
 
 ![Ollama](https://img.shields.io/badge/-Ollama-05122A?style=flat)&nbsp;
 ![Qwen](https://img.shields.io/badge/-Qwen%20%2F%20Llama-05122A?style=flat)&nbsp;
-Vector DBs · Local LLM orchestration
+![Vector DBs](https://img.shields.io/badge/-Vector%20DBs-05122A?style=flat)&nbsp;
+![Local LLM](https://img.shields.io/badge/-Local%20LLM%20orchestration-05122A?style=flat)&nbsp;
 
 ### Also experienced with
 
