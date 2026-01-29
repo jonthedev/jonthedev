@@ -64,7 +64,7 @@ Vector DBs · Local LLM orchestration
 
 I've evolved from building UI features to engineering the systems that power them. After years of shaping frontend architecture for major Dutch enterprises, I'm now focused on the intersection of **infrastructure and AI platform engineering**.
 
-I bring a security-first mindset to every project—utilizing virtualization (UTM/Proxmox) and sandboxing to handle untrusted code. I'm done "centering divs"; I'm here to build the high-performance engines that make modern applications run.
+
 
 ---
 
