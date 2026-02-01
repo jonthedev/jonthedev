@@ -69,9 +69,11 @@ I've evolved from building UI features to engineering the systems that power the
 
 ---
 
-## 🏗️ 2026 Roadmap: Frontend to Platform
+### 🛠️ Technical Focus & Expertise
 
-- **Systems architecture:** Go- and Python-based middleware and high-performance APIs.
-- **AI platform engineering:** ByteByteGo AI Platform Engineering course (2026); GPU-accelerated environments and local LLM inference on Proxmox (homelab).
-- **Advanced frontend:** Performance optimization and large-scale Vue 2 → 3 migrations (Options to Composition API).
-- **Automation:** CI/CD pipelines with "200 vs 400" reliability across the stack.
+- **Frontend Architecture:** Large-scale *Vue 3 (Composition API)* migrations and high-performance UI systems.
+- **AI Infrastructure:** Engineering *Local LLM Inference* pipelines and *RAG* architectures (Ollama/Qwen).
+- **Sovereign Systems:** Architecting GPU-accelerated environments and private cloud nodes via *Proxmox*.
+- **System Design:** Scalable API middleware and distributed system patterns.
+
+---
