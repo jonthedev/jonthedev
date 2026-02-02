@@ -12,11 +12,11 @@
 
 ## 👋 About
 
-Hi, I'm **Jonathan Kaonga** — Senior Engineer.
+👋 Senior Frontend & AI Platform Engineer | J Dev Online
 
-Senior Frontend & Systems Engineer based in Amsterdam with **6+ years** in frontend, now pivoting into **platform and AI platform engineering**. I've delivered high-performance architectures for [Thalex](https://thalex.com/), [DPG Media](https://www.dpgmedia.nl/), and [ANWB](https://www.anwb.nl/).
+London-born, Amsterdam-based Senior Engineer specializing in high-performance Vue/Nuxt architectures and AI-agentic workflows. 
 
-I build scalable, secure software with a focus on performance engineering and developer experience. Whether it's a real-time trading interface or an AI-native backend, I prioritize binary efficiency: *Is the system resilient? Is the pipeline optimized? Is the data-flow secure?*
+I help companies bridge the gap between complex requirements and production-ready systems.
 
 ---
 
