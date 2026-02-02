@@ -12,7 +12,7 @@
 
 ## 👋 About
 
-👋 Senior Frontend & AI Platform Engineer | J Dev Online
+Senior Frontend & AI Platform Engineer | J Dev Online
 
 London-born, Amsterdam-based Senior Engineer specializing in high-performance Vue/Nuxt architectures and AI-agentic workflows. 
 
