@@ -12,17 +12,25 @@
 
 ## 👋 About
 
-Senior Frontend & AI Platform Engineer | J Dev Online
+Senior Frontend Engineer | Lead Engineer at J Dev Online
 
-London-born, Amsterdam-based Senior Engineer specializing in high-performance Vue/Nuxt architectures and AI-agentic workflows. 
+London-born, Amsterdam-based Senior Engineer specializing in high-performance Vue/Nuxt applications and AI-augmented development workflows.
 
-I help companies bridge the gap between complex requirements and production-ready systems.
+I help companies bridge the gap between complex business requirements and resilient, production-ready systems.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Focus
 
-### Core Frontend (6+ years)
+- **Vue & Nuxt Ecosystem:** Expert-level Vue 3, Nuxt, and TypeScript. Specializing in building scalable features, high-performance UI, and modernizing legacy codebases.
+- **AI-Augmented Engineering:** Leveraging local LLM inference (Ollama/Qwen) and RAG architectures to accelerate development velocity and automate complex refactors.
+- **Sovereign Infrastructure:** Architecting secure, private cloud environments (Proxmox/Docker) to ensure client data privacy and system resilience.
+
+---
+
+## 🚀 Tech Stack
+
+### Core Frontend
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Nuxt](https://img.shields.io/badge/-Nuxt%204-05122A?style=flat&logo=nuxt)&nbsp;
@@ -35,45 +43,21 @@ I help companies bridge the gap between complex requirements and production-read
 ![NuxtUI](https://img.shields.io/badge/-NuxtUI-05122A?style=flat&logo=nuxt)&nbsp;
 ![VueUse](https://img.shields.io/badge/-VueUse-05122A?style=flat&logo=vue.js)&nbsp;
 
-### Systems & Platform (active focus)
+### Systems & AI (The "Engine")
 
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux%20(Debian%2FUbuntu)-05122A?style=flat&logo=linux)&nbsp;
 ![Proxmox VE](https://img.shields.io/badge/-Proxmox%20VE-05122A?style=flat&logo=proxmox)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Ollama](https://img.shields.io/badge/-Ollama-05122A?style=flat)&nbsp;
+![Local LLMs](https://img.shields.io/badge/-Local%20LLMs-05122A?style=flat)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions)&nbsp;
 
-### AI & Local-First
-
-![Ollama](https://img.shields.io/badge/-Ollama-05122A?style=flat)&nbsp;
-![Qwen](https://img.shields.io/badge/-Qwen%20%2F%20Llama-05122A?style=flat)&nbsp;
-![Vector DBs](https://img.shields.io/badge/-Vector%20DBs-05122A?style=flat)&nbsp;
-![Local LLM](https://img.shields.io/badge/-Local%20LLM%20orchestration-05122A?style=flat)&nbsp;
-
-### Also experienced with
+### Additional Experience
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-05122A?style=flat&logo=gitlab)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logoColor=white)&nbsp;
-
----
-
-## What I'm passionate about 💪🏿
-
-I've evolved from building UI features to engineering the systems that power them. After years of shaping frontend architecture for major Dutch enterprises, I'm now focused on the intersection of **infrastructure and AI platform engineering**.
-
-
-
----
-
-### 🛠️ Technical Focus & Expertise
-
-- **Frontend Architecture:** Large-scale *Vue 3 (Composition API)* migrations and high-performance UI systems.
-- **AI Infrastructure:** Engineering *Local LLM Inference* pipelines and *RAG* architectures (Ollama/Qwen).
-- **Sovereign Systems:** Architecting GPU-accelerated environments and private cloud nodes via *Proxmox*.
-- **System Design:** Scalable API middleware and distributed system patterns.
-
----
