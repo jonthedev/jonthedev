@@ -12,9 +12,9 @@
 
 ## 👋 About
 
-Senior Frontend Engineer | Lead Engineer at J Dev Online
+Lead Engineer at JDev Online
 
-London-born, Amsterdam-based Senior Engineer specializing in high-performance Vue/Nuxt applications and AI-augmented development workflows.
+London-born, Amsterdam-based Lead Engineer specializing in high-performance Vue/Nuxt applications and AI-augmented development workflows.
 
 I help companies bridge the gap between complex business requirements and resilient, production-ready systems.
 
