@@ -21,7 +21,7 @@ London-born, Amsterdam-based Lead Engineer specializing in high-performance Vue/
 ## 🎓 Official Certifications & Expertise
 
 - **Official Senior Vue.js Developer** (Architecture & Security)
-- **Official Mid-Level Vue.js Developer** (Core Composition API)
+- **Official Mid-Level Vue.js Developer** (Core, Composition API)
 - **Mastering Nuxt** (Full-Stack & SSR Performance)
 - **Mastering Pinia** (Advanced State Management)
 
