@@ -14,17 +14,24 @@
 
 Lead Engineer at JDev Online
 
-London-born, Amsterdam-based Lead Engineer specializing in high-performance Vue/Nuxt applications and AI-augmented development workflows.
+London-born, Amsterdam-based Lead Engineer specializing in high-performance Vue/Nuxt applications and AI-augmented development workflows. I bridge the gap between complex business requirements and resilient, production-ready systems.
 
-I help companies bridge the gap between complex business requirements and resilient, production-ready systems.
+---
+
+## 🎓 Official Certifications & Expertise
+
+- **Official Senior Vue.js Developer** (Architecture & Security)
+- **Official Mid-Level Vue.js Developer** (Core Composition API)
+- **Mastering Nuxt** (Full-Stack & SSR Performance)
+- **Mastering Pinia** (Advanced State Management)
 
 ---
 
 ## 🛠️ Technical Focus
 
-- **Vue & Nuxt Ecosystem:** Expert-level Vue 3, Nuxt, and TypeScript. Specializing in building scalable features, high-performance UI, and modernizing legacy codebases.
-- **AI-Augmented Engineering:** Leveraging local LLM inference (Ollama/Qwen) and RAG architectures to accelerate development velocity and automate complex refactors.
-- **Sovereign Infrastructure:** Architecting secure, private cloud environments (Proxmox/Docker) to ensure client data privacy and system resilience.
+- **Vue & Nuxt Ecosystem:** Expert-level Vue 3 and Nuxt 4. Specializing in Universal Rendering (SSR), high-performance UI, and architectural modernization.
+- **AI-Augmented Engineering:** Leveraging local LLM inference (Ollama/Qwen) and agentic workflows to accelerate development velocity and automate complex refactors.
+- **Sovereign Infrastructure:** Architecting secure, private environments (Proxmox/Docker) to ensure data privacy and system resilience.
 
 ---
 
