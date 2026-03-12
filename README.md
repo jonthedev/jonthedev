@@ -1,9 +1,6 @@
-[![Portfolio](https://img.shields.io/badge/portfolio-f0f0f0?&style=for-the-badge&logo=google-chrome&logoColor=white&color=4285F4)](https://j-dev.online)
-[![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/jonathan-kaonga-5a04871b5/)
-
 <p align="center">
   <a href="https://j-dev.online">
-    <img src="./JDEV-ONLINE-LOGO.png" alt="J-Dev Online — Full-Stack Web Systems" width="100%" />
+    <img src="./logo.png" alt="J-Dev Online — Full-Stack Web Systems" width="100%" />
   </a>
 </p>
 
