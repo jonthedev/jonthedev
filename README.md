@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/Former%20Expertise-React%20%2F%20Next.js-64748B?style=flat-square&logo=react&logoColor=white" alt="React / Next.js" />
   <img src="https://img.shields.io/badge/Learning-NestJS%20%2F%20PostgreSQL-64748B?style=flat-square" alt="NestJS / PostgreSQL" />
   <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
