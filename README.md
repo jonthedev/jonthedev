@@ -6,6 +6,7 @@
 
 **Vue Frontend Engineer — 6+ years shipping high-traffic platforms. [Portfolio →](https://j-dev.online)**
 
+<p align="center"><strong>Core stack</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/-Nuxt%204-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt 4" />
@@ -15,12 +16,21 @@
   <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
 </p>
 
+<p align="center"><strong>Background &amp; growth</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Former%20Expertise-React%20%2F%20Next.js-64748B?style=flat-square&logo=react&logoColor=white" alt="React / Next.js" />
   <img src="https://img.shields.io/badge/Learning-NestJS%20%2F%20PostgreSQL-64748B?style=flat-square" alt="NestJS / PostgreSQL" />
+</p>
+
+<p align="center"><strong>AI-assisted development</strong></p>
+<p align="center">
   <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+<p align="center"><strong>Environment</strong></p>
+<p align="center">
   <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
