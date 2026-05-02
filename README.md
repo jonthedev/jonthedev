@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Vue Frontend Engineer — 6+ years shipping high-traffic platforms. <a href="https://j-dev.online">Portfolio →</a></strong>
+  <strong>Vue Frontend Engineer — 6+ years shipping high-traffic platforms.</strong>
 </p>
 
 <p align="center"><strong>Core stack</strong></p>
@@ -36,6 +36,9 @@
   <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
+
+<p align="center"><strong>Portfolio</strong></p>
+<p align="center"><a href="https://j-dev.online/">J Dev Online</a></p>
 
 ---
 
