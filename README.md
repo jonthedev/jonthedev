@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://j-dev.online">
-    <img src="./logo.png" alt="J-Dev Online — Vue Frontend Engineer" width="100%" />
+    <img src="./logo.png" alt="JDev Online — Vue Frontend Engineer" width="100%" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center"><strong>Portfolio</strong></p>
-<p align="center"><a href="https://j-dev.online/">J Dev Online</a></p>
+<p align="center"><a href="https://j-dev.online/">JDev Online</a></p>
 
 ---
 
