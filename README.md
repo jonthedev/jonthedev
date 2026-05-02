@@ -4,7 +4,9 @@
   </a>
 </p>
 
-**Vue Frontend Engineer — 6+ years shipping high-traffic platforms. [Portfolio →](https://j-dev.online)**
+<p align="center">
+  <strong>Vue Frontend Engineer — 6+ years shipping high-traffic platforms. <a href="https://j-dev.online">Portfolio →</a></strong>
+</p>
 
 <p align="center"><strong>Core stack</strong></p>
 <p align="center">
@@ -14,11 +16,11 @@
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/-Pinia-1C3C45?style=flat-square&logo=pinia&logoColor=white" alt="Pinia" />
   <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Former%20Expertise-React%20%2F%20Next.js-64748B?style=flat-square&logo=react&logoColor=white" alt="React / Next.js" />
 </p>
 
 <p align="center"><strong>Background &amp; growth</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Former%20Expertise-React%20%2F%20Next.js-64748B?style=flat-square&logo=react&logoColor=white" alt="React / Next.js" />
   <img src="https://img.shields.io/badge/Learning-NestJS%20%2F%20PostgreSQL-64748B?style=flat-square" alt="NestJS / PostgreSQL" />
 </p>
 
