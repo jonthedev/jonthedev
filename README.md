@@ -1,22 +1,23 @@
 <p align="center">
   <a href="https://j-dev.online">
-    <img src="./logo.png" alt="J-Dev Online — Senior AI & Full-Stack Architect" width="100%" />
+    <img src="./logo.png" alt="J-Dev Online — Vue Frontend Engineer" width="100%" />
   </a>
 </p>
 
-**Explore the Sovereign AI Lab [J-Dev.Online](https://j-dev.online) →**
+**Vue Frontend Engineer — 6+ years shipping high-traffic platforms. [Portfolio →](https://j-dev.online)**
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/-Nuxt%204-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt 4" />
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-Pinia-1C3C45?style=flat-square&logo=pinia&logoColor=white" alt="Pinia" />
+  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Workflows-agents%20%2F%20RAG-6366F1?style=flat-square" alt="AI Workflows" />
-  <img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Former%20Expertise-React%20%2F%20Next.js-64748B?style=flat-square&logo=react&logoColor=white" alt="React / Next.js" />
+  <img src="https://img.shields.io/badge/Learning-NestJS%20%2F%20PostgreSQL-64748B?style=flat-square" alt="NestJS / PostgreSQL" />
   <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
@@ -24,23 +25,28 @@
 
 ---
 
-## Senior AI & Full-Stack Architect
+## Vue Frontend Engineer
 
-I bridge the gap between AI generation and production-grade stability. With 6+ years of experience delivering high-traffic platforms (ANWB, Thalex, DPG Media), I specialize in the **"Golden Thread"** of 2026: **AI-Native Orchestration.**
+I build performant, accessible frontend systems for high-traffic platforms. Currently focused on Vue 3 and Nuxt 4, with deep React and Next.js experience from previous roles.
 
-### 🏗️ The Sovereign AI Focus
+### Production Work
 
-I architect systems that prioritize **Data Sovereignty**, leveraging the reasoning power of Claude alongside the security of local LLMs (Ollama/Qwen). I don't just prompt—I build the RAG-powered engines and agentic pipelines that make AI reliable for enterprise **Vue/Nuxt** and **NestJS** architectures.
+- **TLX Technology** — Led migration of core trading modules to Vue 3 + Nuxt, built D3-based futures pricing charts, introduced Playwright for E2E testing
+- **DPG Media (Nationale Vacaturebank)** — Optimized Next.js performance for the Netherlands' largest job board, built centralized Tailwind design system
+- **iO Consultancy (ANWB, Van Lanschot Kempen)** — Core engineer on ANWB's traffic platform (Website van het Jaar 2022), architected cross-team Chakra UI library for VLK rebrand, introduced Cypress testing
 
-### 🧪 Current R&D & Workflows
+### AI-Augmented Workflow
 
-- **Agentic UX:** Automating complex UI workflows via autonomous AI agents.
-- **Sovereign RAG:** Building air-gapped, GDPR-compliant data pipelines.
-- **Workflow Mastery:** Implementing high-velocity **Unlearn.dev** patterns.
-- **Systems:** Deep-diving into **Linux (Ubuntu)** and **Neovim (Lua)** for high-efficiency engineering.
+I use hybrid Claude + local Ollama workflows for systematic code refactoring and faster development cycles. AI is a tool in my process, not the product I sell.
 
-### 💼 B2B Engagements
+### Certifications
 
-Available for B2B engineering and architectural consulting across the **UK, Netherlands, and wider EU**.
+- Official Certified Senior & Mid-Level Vue.js Developer — Certificates.dev
+- AI-Native Software Engineering (Full Track) — Unlearn.dev
+- Mastering Pinia & Mastering Nuxt — BitterBrains / Eduardo San Martin Morote
 
-[Portfolio](https://j-dev.online) | [LinkedIn](https://linkedin.com) | [Email](mailto:jonathan@j-dev.online)
+### B2B Engagements
+
+Dutch B2B entity (KVK 93792670). Available for contract work across the UK, Netherlands, and wider EU.
+
+[Portfolio](https://j-dev.online) | [LinkedIn](https://www.linkedin.com/in/jonathan-kaonga-5a04871b5/) | [Email](mailto:jonathan@j-dev.online)
