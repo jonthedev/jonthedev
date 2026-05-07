@@ -40,39 +40,41 @@
 
 ---
 
-## AI Product Engineer
+# Jonathan Kaonga | AI Product Engineer
 
-AI Product Engineer with 6+ years shipping high-performance platforms (DPG Media / Nationale Vacaturebank, ANWB, Van Lanschot Kempen).
+**British National • Amsterdam Based • B2B Contractor**
 
-Frontend-first delivery in Vue & Nuxt 4. Background in enterprise React/Next.js.
+6+ years shipping high-performance platforms (DPG Media, ANWB, VLK).  
+Specialist in the Vue Ecosystem with a 5+ year enterprise foundation in React & Next.js.
 
-Building AI-assisted products with agentic workflows and a hybrid setup: local LLMs for sensitive code, Claude for reasoning and research.
+---
 
-Actively building backend foundations in a lab track (NestJS, PostgreSQL) to support privacy-aware AI product work.
+## 🛠️ Specialized Vue Stack
 
-### Production Work
+- **Frameworks:** Nuxt 4 (Specialist), Vue 3 (Certified), Nuxt 3, Vite
+- **State & Logic:** Pinia, VueUse, TypeScript (Strict)
+- **Testing & QA:** Playwright, Vitest, Cypress
+- **Certification:** Official Certified Senior & Mid-Level Vue.js Developer
 
-- **TLX Technology:** Led migration of core trading modules to Vue 3 + Nuxt, built D3-based futures pricing charts, introduced Playwright for E2E testing
-- **DPG Media (Nationale Vacaturebank):** Optimized Next.js performance for the Netherlands' largest job board, built centralized Tailwind design system
-- **iO Consultancy (ANWB, Van Lanschot Kempen):** Core engineer on ANWB's traffic platform (Website van het Jaar 2022), architected cross-team Chakra UI library for VLK rebrand, introduced Cypress testing
+## 🚀 Technical Foundation (5+ Years)
 
-### Your Advantage
+- **React & Next.js:** Half a decade of enterprise-scale delivery before specializing in Vue.
 
-- **Senior intuition cuts AI waste.** I don't just "use" AI. I curate output for security, performance, and scalability.
-- **Local-first cost efficiency.** AI homelab + optimized Cursor workflows use a fraction of the tokens less experienced developers require, reducing API costs and keeping client data secure locally.
+## 🧪 The Lab: Backend & AI (Current Focus)
 
-### Lab
+- **Architecture:** Building type-safe **NestJS** APIs and **PostgreSQL** architectures.
+- **AI:** Implementing **Agentic AI** workflows using a hybrid local/cloud setup (Ollama + Claude).
+- **R&D:** Working through the **Unlearn.dev** track for RAG and Agentic patterns.
 
-Experimental track for AI workflows, backend experiments (NestJS/PostgreSQL), and R&D. [Check out my lab →](https://j-dev.online/#/)
+---
 
-### Certifications
+## 💼 Logistics
 
-- Official Certified Senior & Mid-Level Vue.js Developer: Certificates.dev
-- AI-Native Software Engineering (Full Track): Unlearn.dev
-- Mastering Pinia & Mastering Nuxt: BitterBrains / Eduardo San Martin Morote
+- **KVK Registered:** 93792670
+- **Outside IR35:** UK Ready
+- **Remote:** UK / CET Timezones
 
-### B2B Engagements
-
-Dutch B2B entity (KVK 93792670). Available for contract work across the UK, Netherlands, and wider EU.
+**Portfolio:** [j-dev.online](https://j-dev.online)  
+**Email:** [jonathan@j-dev.online](mailto:jonathan@j-dev.online)
 
 [Portfolio](https://j-dev.online) | [Lab](https://j-dev.online/#/) | [LinkedIn](https://www.linkedin.com/in/jonathan-kaonga-5a04871b5/) | [Email](mailto:jonathan@j-dev.online)
