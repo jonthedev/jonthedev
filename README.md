@@ -4,14 +4,15 @@
   </a>
 </p>
 
-<p align="center">
-  <strong>AI Product Engineer with 6+ years shipping high-performance platforms (DPG Media, ANWB, VLK).</strong>
-</p>
+# Jonathan Kaonga | AI Product Engineer
 
-<p align="center">Frontend-first delivery in Vue &amp; Nuxt 4. Background in enterprise React/Next.js.</p>
+**British National • Amsterdam Based • B2B Contractor**
 
-<p align="center"><strong>Core stack</strong></p>
-<p align="center">
+6+ years shipping high-performance platforms (DPG Media, ANWB, VLK).  
+Specialist in the Vue Ecosystem with a 5+ year enterprise foundation in React & Next.js.
+
+<p><strong>Core stack</strong></p>
+<p>
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/-Nuxt%204-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt 4" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -21,37 +22,29 @@
   <img src="https://img.shields.io/badge/Former%20Expertise-React%20%2F%20Next.js-64748B?style=flat-square&logo=react&logoColor=white" alt="React / Next.js" />
 </p>
 
-<p align="center"><strong>AI &amp; Lab workflows</strong></p>
-<p align="center">
+<p><strong>AI &amp; Lab workflows</strong></p>
+<p>
   <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
 </p>
 
-<p align="center"><strong>Back End</strong></p>
-<p align="center">
+<p><strong>Back End</strong></p>
+<p>
   <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-<p align="center"><strong>Environment</strong></p>
-<p align="center">
+<p><strong>Environment</strong></p>
+<p>
   <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-<p align="center"><strong>Portfolio</strong></p>
-<p align="center"><a href="https://j-dev.online/">JDev Online</a> · <a href="https://j-dev.online/#/">Lab</a></p>
+<p><strong>Website</strong></p>
+<p><a href="https://j-dev.online/">JDev Online</a></p>
 
 ---
-
-# Jonathan Kaonga | AI Product Engineer
-
-**British National • Amsterdam Based • B2B Contractor**
-
-6+ years shipping high-performance platforms (DPG Media, ANWB, VLK).  
-Specialist in the Vue Ecosystem with a 5+ year enterprise foundation in React & Next.js.
-
 ---
 
 ## 🛠️ Specialized Vue Stack
@@ -78,8 +71,3 @@ Specialist in the Vue Ecosystem with a 5+ year enterprise foundation in React & 
 - **KVK Registered:** 93792670
 - **Outside IR35:** UK Ready
 - **Remote:** UK / CET Timezones
-
-**Portfolio:** [j-dev.online](https://j-dev.online)  
-**Email:** [jonathan@j-dev.online](mailto:jonathan@j-dev.online)
-
-[Portfolio](https://j-dev.online) | [Lab](https://j-dev.online/#/) | [LinkedIn](https://www.linkedin.com/in/jonathan-kaonga-5a04871b5/) | [Email](mailto:jonathan@j-dev.online)
