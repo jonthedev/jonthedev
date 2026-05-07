@@ -45,7 +45,6 @@ Specialist in the Vue Ecosystem with a 5+ year enterprise foundation in React & 
 <p><a href="https://j-dev.online/">JDev Online</a></p>
 
 ---
----
 
 ## 🛠️ Specialized Vue Stack
 
