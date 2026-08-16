@@ -1,72 +1,64 @@
 <p align="center">
   <a href="https://j-dev.online">
-    <img src="./logo.png" alt="JDev Online: AI Product Engineer" width="100%" />
+    <img src="./logo.png" alt="JDev Online" width="100%" />
   </a>
 </p>
 
-# Jonathan Kaonga | AI Product Engineer
+<p align="center">
+  <strong>Jonathan Kaonga</strong><br />
+  Freelance Software Engineer
+</p>
 
-**British National • Amsterdam Based • B2B Contractor**
+<p align="center">
+  <strong>British National • Amsterdam • B2B via JDev Online</strong>
+</p>
 
-6+ years shipping high-performance platforms (DPG Media, ANWB, VLK).  
-Specialist in the Vue Ecosystem with a 5+ year enterprise foundation in React & Next.js.
+6+ years shipping high-traffic product UI (DPG Media, ANWB, VLK, Thalex).  
+That work — Vue, Nuxt, React, Next.js, TypeScript — is at [j-dev.online](https://j-dev.online/).
 
-<p><strong>Core stack</strong></p>
+The next step is the layer under that UI: how machines run, how services talk, and how that work gets shipped. I am on the [Boot.dev DevOps Engineer Path](https://www.boot.dev/dashboard) (Python through Kubernetes), then [Algoroq — Introduction to System Design](https://algoroq.io/learn/introduction-to-system-design/fundamentals-of-computing/). Exercises are reproduced locally, not only in the browser.
+
+<p><strong>Shipped (frontend)</strong></p>
 <p>
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/-Nuxt%204-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt 4" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/-Pinia-1C3C45?style=flat-square&logo=pinia&logoColor=white" alt="Pinia" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Former%20Expertise-React%20%2F%20Next.js-64748B?style=flat-square&logo=react&logoColor=white" alt="React / Next.js" />
+  <img src="https://img.shields.io/badge/Also-React%20%2F%20Next.js-64748B?style=flat-square&logo=react&logoColor=white" alt="React / Next.js" />
 </p>
 
-<p><strong>AI &amp; Lab workflows</strong></p>
+<p><strong>Tooling</strong></p>
 <p>
-  <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-</p>
-
-<p><strong>Back End</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-<p><strong>Environment</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
 </p>
 
 <p><strong>Website</strong></p>
-<p><a href="https://j-dev.online/">JDev Online</a></p>
+<p><a href="https://j-dev.online/">j-dev.online</a></p>
 
 ---
 
-## 🛠️ Specialized Vue Stack
+## Frontend (shipped)
 
-- **Frameworks:** Nuxt 4 (Specialist), Vue 3 (Certified), Nuxt 3, Vite
-- **State & Logic:** Pinia, VueUse, TypeScript (Strict)
-- **Testing & QA:** Playwright, Vitest, Cypress
-- **Certification:** Official Certified Senior & Mid-Level Vue.js Developer
+- **Frameworks:** Vue 3, Nuxt 4, Vite
+- **State & logic:** Pinia, VueUse, TypeScript
+- **Testing:** Playwright, Vitest, Cypress
+- **Also in production:** React and Next.js — multi-year enterprise delivery (DPG, ANWB, and earlier roles)
 
-## 🚀 Technical Foundation (5+ Years)
+## Platform and infrastructure (in progress)
 
-- **React & Next.js:** Half a decade of enterprise-scale delivery before specializing in Vue.
+- **[Boot.dev](https://www.boot.dev/dashboard) — DevOps Engineer Path:** Python, Linux, Git, Go, HTTP, SQL, Docker, observability, AWS, CI/CD, Kubernetes
+- **[Algoroq](https://algoroq.io/learn/introduction-to-system-design/fundamentals-of-computing/) — Introduction to System Design:** computers, networking, storage, REST, databases, caching, foundations of system design
 
-## 🧪 The Lab: Backend & AI (Current Focus)
-
-- **Architecture:** Building type-safe **NestJS** APIs and **PostgreSQL** architectures.
-- **AI:** Implementing **Agentic AI** workflows using a hybrid local/cloud setup (Ollama + Claude).
-- **R&D:** Working through the **Unlearn.dev** track for RAG and Agentic patterns.
+A public `systems` repo will hold the local exercises. Until then, this is the direction — not a job title.
 
 ---
 
-## 💼 Logistics
+## Logistics
 
-- **KVK Registered:** 93792670
-- **Outside IR35:** UK Ready
-- **Remote:** UK / CET Timezones
+- **KVK:** 93792670
+- **Outside IR35:** UK ready
+- **Remote:** UK / CET
