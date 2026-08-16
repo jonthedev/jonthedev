@@ -53,7 +53,7 @@ The next step is the layer under that UI: how machines run, how services talk, a
 - **[Boot.dev](https://www.boot.dev/dashboard) — DevOps Engineer Path:** Python, Linux, Git, Go, HTTP, SQL, Docker, observability, AWS, CI/CD, Kubernetes
 - **[Algoroq](https://algoroq.io/learn/introduction-to-system-design/fundamentals-of-computing/) — Introduction to System Design:** computers, networking, storage, REST, databases, caching, foundations of system design
 
-A public `systems` repo will hold the local exercises. Until then, this is the direction — not a job title.
+Local exercises: [github.com/jonthedev/systems](https://github.com/jonthedev/systems).
 
 ---
 
