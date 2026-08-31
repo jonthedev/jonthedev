@@ -6,17 +6,17 @@
 
 <p align="center">
   <strong>Jonathan Kaonga</strong><br />
-  Freelance Software Engineer
+  Senior Full-Stack Engineer
 </p>
 
 <p align="center">
-  <strong>British National • Amsterdam • B2B via JDev Online</strong>
+  <strong>Amsterdam • Open to remote, UK, and US</strong>
 </p>
 
 6+ years shipping high-traffic product UI (DPG Media, ANWB, VLK, Thalex).  
 That work — Vue, Nuxt, React, Next.js, TypeScript — is at [j-dev.online](https://j-dev.online/).
 
-The next step is the layer under that UI: how machines run, how services talk, and how that work gets shipped. I am on the [Boot.dev DevOps Engineer Path](https://www.boot.dev/dashboard) (Python through Kubernetes), then [Algoroq — Introduction to System Design](https://algoroq.io/learn/introduction-to-system-design/fundamentals-of-computing/). Exercises are reproduced locally, not only in the browser.
+The next step is the layer under that UI: how machines run, how services talk, and how that work gets shipped. I am on the [Boot.dev DevOps Engineer Path](https://www.boot.dev/paths/devops) (Python through Kubernetes), then [Algoroq — Introduction to System Design](https://algoroq.io/learn/introduction-to-system-design/fundamentals-of-computing/). Exercises are reproduced locally, not only in the browser.
 
 <p><strong>Shipped (frontend)</strong></p>
 <p>
@@ -28,12 +28,6 @@ The next step is the layer under that UI: how machines run, how services talk, a
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Also-React%20%2F%20Next.js-64748B?style=flat-square&logo=react&logoColor=white" alt="React / Next.js" />
-</p>
-
-<p><strong>Tooling</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
 </p>
 
 <p><strong>Website</strong></p>
@@ -50,7 +44,7 @@ The next step is the layer under that UI: how machines run, how services talk, a
 
 ## Platform and infrastructure (in progress)
 
-- **[Boot.dev](https://www.boot.dev/dashboard) — DevOps Engineer Path:** Python, Linux, Git, Go, HTTP, SQL, Docker, observability, AWS, CI/CD, Kubernetes
+- **[Boot.dev](https://www.boot.dev/paths/devops) — DevOps Engineer Path:** Python, Linux, Git, Go, HTTP, SQL, Docker, observability, AWS, CI/CD, Kubernetes
 - **[Algoroq](https://algoroq.io/learn/introduction-to-system-design/fundamentals-of-computing/) — Introduction to System Design:** computers, networking, storage, REST, databases, caching, foundations of system design
 
 Local exercises: [github.com/jonthedev/systems](https://github.com/jonthedev/systems).
@@ -59,6 +53,7 @@ Local exercises: [github.com/jonthedev/systems](https://github.com/jonthedev/sys
 
 ## Logistics
 
+- **Available:** Permanent roles or selective B2B via JDev Online
 - **KVK:** 93792670
 - **Outside IR35:** UK ready
-- **Remote:** UK / CET
+- **Remote:** UK / US / CET
