@@ -6,19 +6,18 @@
 
 <p align="center">
   <strong>Jonathan Kaonga</strong><br />
-  Senior Full-Stack Engineer
+  Software Engineer
 </p>
 
 <p align="center">
-  <strong>Amsterdam • Open to remote, UK, and US</strong>
+  <strong>Amsterdam • Open to the Netherlands, UK, and US</strong>
 </p>
 
-6+ years shipping high-traffic product UI (DPG Media, ANWB, VLK, Thalex).  
-That work — Vue, Nuxt, React, Next.js, TypeScript — is at [j-dev.online](https://j-dev.online/).
+Software engineer with 6+ years shipping product UI in TypeScript. Strongest in Vue and Nuxt (Thalex crypto exchange). Production React and Next.js at DPG Media, ANWB Verkeer, and Van Lanschot Kempen (private bank).
 
-The next step is the layer under that UI: how machines run, how services talk, and how that work gets shipped. I am on the [Boot.dev DevOps Engineer Path](https://www.boot.dev/paths/devops) (Python through Kubernetes), then [Algoroq — Introduction to System Design](https://algoroq.io/learn/introduction-to-system-design/fundamentals-of-computing/). Exercises are reproduced locally, not only in the browser.
+That work is at [j-dev.online](https://j-dev.online/). Currently upskilling in DevOps and platform engineering to cover more of the stack ([Boot.dev](https://www.boot.dev/paths/devops): Python, Linux, Git, Docker, Go, AWS, Kubernetes), including Linux administration on a remote Ubuntu server. Notes: [github.com/jonthedev/systems](https://github.com/jonthedev/systems).
 
-<p><strong>Shipped (frontend)</strong></p>
+<p><strong>Shipped</strong></p>
 <p>
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/-Nuxt%204-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt 4" />
@@ -30,6 +29,13 @@ The next step is the layer under that UI: how machines run, how services talk, a
   <img src="https://img.shields.io/badge/Also-React%20%2F%20Next.js-64748B?style=flat-square&logo=react&logoColor=white" alt="React / Next.js" />
 </p>
 
+<p><strong>In progress</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
 <p><strong>Website</strong></p>
 <p><a href="https://j-dev.online/">j-dev.online</a></p>
 
@@ -38,16 +44,15 @@ The next step is the layer under that UI: how machines run, how services talk, a
 ## Frontend (shipped)
 
 - **Frameworks:** Vue 3, Nuxt 4, Vite
-- **State & logic:** Pinia, VueUse, TypeScript
+- **State and logic:** Pinia, VueUse, TypeScript
 - **Testing:** Playwright, Vitest, Cypress
-- **Also in production:** React and Next.js — multi-year enterprise delivery (DPG, ANWB, and earlier roles)
+- **Also in production:** React and Next.js (DPG Media, ANWB, Van Lanschot Kempen)
 
-## Platform and infrastructure (in progress)
+## Platform (in progress)
 
-- **[Boot.dev](https://www.boot.dev/paths/devops) — DevOps Engineer Path:** Python, Linux, Git, Go, HTTP, SQL, Docker, observability, AWS, CI/CD, Kubernetes
-- **[Algoroq](https://algoroq.io/learn/introduction-to-system-design/fundamentals-of-computing/) — Introduction to System Design:** computers, networking, storage, REST, databases, caching, foundations of system design
-
-Local exercises: [github.com/jonthedev/systems](https://github.com/jonthedev/systems).
+- **[Boot.dev](https://www.boot.dev/paths/devops) DevOps Engineer path:** Python, Linux, Git, Docker, Go, AWS, Kubernetes
+- Linux administration on a remote Ubuntu server
+- Local notes: [github.com/jonthedev/systems](https://github.com/jonthedev/systems)
 
 ---
 
@@ -56,4 +61,5 @@ Local exercises: [github.com/jonthedev/systems](https://github.com/jonthedev/sys
 - **Available:** Permanent roles or selective B2B via JDev Online
 - **KVK:** 93792670
 - **Outside IR35:** UK ready
-- **Remote:** UK / US / CET
+- **Open to:** Netherlands, UK, and US
+- **Residency:** Permanent Dutch resident. British passport. No visa sponsorship required for NL or UK.
