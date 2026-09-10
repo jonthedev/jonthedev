@@ -6,18 +6,18 @@
 
 <p align="center">
   <strong>Jonathan Kaonga</strong><br />
-  Software Engineer
+  Full Stack Engineer
 </p>
 
 <p align="center">
   <strong>Amsterdam • Open to the Netherlands, UK, and US</strong>
 </p>
 
-Software engineer with 6+ years shipping product UI in TypeScript. Strongest in Vue and Nuxt (Thalex crypto exchange). Production React and Next.js at DPG Media, ANWB Verkeer, and Van Lanschot Kempen (private bank).
+Full stack engineer with 6+ years shipping high-traffic product UI, plus DevOps depth across Python, Linux, Git, Go, SQL, Docker, AWS, CI/CD, and Kubernetes.
 
-That work is at [j-dev.online](https://j-dev.online/). Currently upskilling in DevOps and platform engineering to cover more of the stack ([Boot.dev](https://www.boot.dev/paths/devops): Python, Linux, Git, Docker, Go, AWS, Kubernetes), including Linux administration on a remote Ubuntu server. Notes: [github.com/jonthedev/systems](https://github.com/jonthedev/systems).
+Production at Thalex, DPG Media, ANWB Verkeer (Website van het Jaar 2022), and Van Lanschot Kempen. Portfolio: [j-dev.online](https://j-dev.online/).
 
-<p><strong>Shipped</strong></p>
+<p><strong>Product UI</strong></p>
 <p>
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/-Nuxt%204-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt 4" />
@@ -29,11 +29,15 @@ That work is at [j-dev.online](https://j-dev.online/). Currently upskilling in D
   <img src="https://img.shields.io/badge/Also-React%20%2F%20Next.js-64748B?style=flat-square&logo=react&logoColor=white" alt="React / Next.js" />
 </p>
 
-<p><strong>In progress</strong></p>
+<p><strong>Systems and DevOps</strong></p>
 <p>
   <img src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
 <p><strong>Website</strong></p>
@@ -41,24 +45,24 @@ That work is at [j-dev.online](https://j-dev.online/). Currently upskilling in D
 
 ---
 
-## Frontend (shipped)
+## Product UI
 
 - **Frameworks:** Vue 3, Nuxt 4, Vite
 - **State and logic:** Pinia, VueUse, TypeScript
 - **Testing:** Playwright, Vitest, Cypress
 - **Also in production:** React and Next.js (DPG Media, ANWB, Van Lanschot Kempen)
 
-## Platform (in progress)
+## Systems and DevOps
 
-- **[Boot.dev](https://www.boot.dev/paths/devops) DevOps Engineer path:** Python, Linux, Git, Docker, Go, AWS, Kubernetes
-- Linux administration on a remote Ubuntu server
-- Local notes: [github.com/jonthedev/systems](https://github.com/jonthedev/systems)
+- Python, Linux, Git, Go, SQL, HTTP services, Docker, AWS, CI/CD, Kubernetes
+- Remote Linux administration on a partitioned Ubuntu server
+- Notes: [github.com/jonthedev/systems](https://github.com/jonthedev/systems)
 
 ---
 
 ## Logistics
 
-- **Available:** Permanent roles or selective B2B via JDev Online
+- **Available:** Full-time roles or selective B2B via JDev Online
 - **KVK:** 93792670
 - **Outside IR35:** UK ready
 - **Open to:** Netherlands, UK, and US
