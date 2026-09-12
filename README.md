@@ -55,7 +55,8 @@ Production at Thalex, DPG Media, ANWB Verkeer (Website van het Jaar 2022), and V
 ## Systems and DevOps
 
 - Python, Linux, Git, Go, SQL, HTTP services, Docker, AWS, CI/CD, Kubernetes
-- Remote Linux administration on a partitioned Ubuntu server
+- Remote Linux for real workloads.
+- Containers, cloud, and CI/CD in the same delivery path.
 - Notes: [github.com/jonthedev/systems](https://github.com/jonthedev/systems)
 
 ---
