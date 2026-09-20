@@ -43,6 +43,15 @@ Production at Thalex, DPG Media, ANWB Verkeer (Website van het Jaar 2022), and V
 <p><strong>Website</strong></p>
 <p><a href="https://j-dev.online/">j-dev.online</a></p>
 
+## Credentials
+
+Public Boot.dev profile: [boot.dev/u/jdev-online](https://www.boot.dev/u/jdev-online). Certificate images: [j-dev.online/#credentials](https://j-dev.online/#credentials).
+
+- [Learn Python for Beginners](https://www.boot.dev/certificates/862cf23b-cb7b-4b6e-a54f-7af951e733c5)
+- [Learn Linux](https://www.boot.dev/certificates/f9dee558-ba5e-406c-a919-ea22f5d063d9)
+- [Build a BookBot in Python](https://www.boot.dev/certificates/cbd3d9de-391e-46d9-9502-5b4278d7bef0)
+- [Learn Git](https://www.boot.dev/certificates/7e0071e0-e0ba-4e3d-86fa-a6869d83705b)
+
 ---
 
 ## Product UI
@@ -57,7 +66,6 @@ Production at Thalex, DPG Media, ANWB Verkeer (Website van het Jaar 2022), and V
 - Python, Linux, Git, Go, SQL, HTTP services, Docker, AWS, CI/CD, Kubernetes
 - Remote Linux for real workloads.
 - Containers, cloud, and CI/CD in the same delivery path.
-- Notes: [github.com/jonthedev/systems](https://github.com/jonthedev/systems)
 
 ---
 
