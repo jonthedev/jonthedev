@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <strong>Amsterdam • Open to the Netherlands, UK, and US</strong>
+  <strong>Amsterdam • Netherlands and UK</strong>
 </p>
 
-Full stack engineer with 6+ years shipping high-traffic product UI, plus DevOps depth across Python, Linux, Git, Go, SQL, Docker, AWS, CI/CD, and Kubernetes.
+Full stack engineer with 6+ years shipping high-traffic product UI, working toward the services, cloud, and clusters those products run on.
 
 Production at Thalex, DPG Media, ANWB Verkeer (Website van het Jaar 2022), and Van Lanschot Kempen. Portfolio: [j-dev.online](https://j-dev.online/).
 
@@ -35,8 +35,10 @@ Production at Thalex, DPG Media, ANWB Verkeer (Website van het Jaar 2022), and V
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
@@ -47,10 +49,12 @@ Production at Thalex, DPG Media, ANWB Verkeer (Website van het Jaar 2022), and V
 
 Public Boot.dev profile: [boot.dev/u/jdev-online](https://www.boot.dev/u/jdev-online). Certificate images: [j-dev.online/#credentials](https://j-dev.online/#credentials).
 
-- [Learn Python for Beginners](https://www.boot.dev/certificates/862cf23b-cb7b-4b6e-a54f-7af951e733c5)
+- [Introduction to Python](https://www.boot.dev/certificates/862cf23b-cb7b-4b6e-a54f-7af951e733c5)
 - [Learn Linux](https://www.boot.dev/certificates/f9dee558-ba5e-406c-a919-ea22f5d063d9)
 - [Build a BookBot in Python](https://www.boot.dev/certificates/cbd3d9de-391e-46d9-9502-5b4278d7bef0)
 - [Learn Git](https://www.boot.dev/certificates/7e0071e0-e0ba-4e3d-86fa-a6869d83705b)
+- [Learn Object Oriented Programming in Python](https://www.boot.dev/certificates/71c554a3-ddf3-4fea-9fa4-d07d89e83e41)
+- [Build Asteroids using Python and Pygame](https://www.boot.dev/certificates/7aa97cbb-bb51-4fb7-bce3-7cb0960e5ca6)
 
 ---
 
@@ -63,9 +67,9 @@ Public Boot.dev profile: [boot.dev/u/jdev-online](https://www.boot.dev/u/jdev-on
 
 ## Systems and DevOps
 
-- Python, Linux, Git, Go, SQL, HTTP services, Docker, AWS, CI/CD, Kubernetes
-- Remote Linux for real workloads.
-- Containers, cloud, and CI/CD in the same delivery path.
+- Python, Linux, Git, Go, SQL, Docker, AWS, CI/CD, Kubernetes
+- Boot.dev DevOps path in progress. Destination: services, cloud, and clusters.
+- Self-hosted homelab and local AI.
 
 ---
 
@@ -74,5 +78,5 @@ Public Boot.dev profile: [boot.dev/u/jdev-online](https://www.boot.dev/u/jdev-on
 - **Available:** Full-time roles or selective B2B via JDev Online
 - **KVK:** 93792670
 - **Outside IR35:** UK ready
-- **Open to:** Netherlands, UK, and US
+- **Open to:** Netherlands and UK
 - **Residency:** Permanent Dutch resident. British passport. No visa sponsorship required for NL or UK.
