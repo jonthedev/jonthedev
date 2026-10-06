@@ -33,7 +33,7 @@ Product engineering is my strongest established area.
 
 At Thalex, internal operational tooling and developer-experience improvements contributed to a 25% increase in user onboarding efficiency.
 
-Work on ANWB Traffic Verkeer contributed to the Website van het Jaar 2022 award.
+Work on ANWB Traffic Verkeer contributed to the Website van het Jaar 2022 award. The Traffic Verkeer style system moved from Less into styled-components.
 
 Production work also includes DPG Media and Van Lanschot Kempen. React and Next.js shipped in production at DPG Media, ANWB Traffic Verkeer, and Van Lanschot Kempen. The established stack around that work is Vue, Nuxt, TypeScript, Pinia, Vite, Tailwind CSS, Playwright, Vitest, and Cypress.
 
@@ -48,6 +48,8 @@ Current study covers Python, Go, Linux, Docker, SQL, CI/CD, AWS, Kubernetes, sel
 I use Cursor as part of my engineering workflow, with local models through Ollama and Qwen.
 
 I co-organise the Home Lab Collective in Amsterdam. The group focuses on self-hosted infrastructure and local AI.
+
+I go to [Amsterdam AI Tinkerers](https://amsterdam.aitinkerers.org/) meetups to watch the demos, talk about the work, and keep up with what people are shipping. The wider network is [AI Tinkerers](https://aitinkerers.org/).
 
 ## Credentials
 
