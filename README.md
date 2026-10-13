@@ -15,7 +15,7 @@
 
 I have 6+ years of professional production experience in product engineering. Current client work extends that into Go services and Linux-based infrastructure. Docker, cloud, and CI are the wider path.
 
-**Proven in production.** TypeScript, React, Vue, and Svelte. Shipped with Thalex, DPG Media, ANWB Verkeer, and Van Lanschot Kempen. Current part-time client is Toekomst.org.
+**Proven in production.** TypeScript, React, Vue, and Svelte. Shipped with Thalex, DPG Media, ANWB Verkeer, and Van Lanschot Kempen.
 
 **Still in study.** Python, Docker, SQL, CI/CD, AWS, and Kubernetes, through the Boot.dev DevOps path. That training is not a substitute for years in a DevOps role.
 
@@ -35,8 +35,6 @@ At Thalex, internal operational tooling and developer-experience improvements co
 Work on ANWB Verkeer contributed to the Website van het Jaar 2022 award. The Traffic Verkeer style system moved from Less into styled-components.
 
 Production work also includes DPG Media and Van Lanschot Kempen. React and Next.js shipped in production at DPG Media, ANWB Verkeer, and Van Lanschot Kempen. The established stack around that work is Vue, Nuxt, TypeScript, Pinia, Vite, Tailwind CSS, Playwright, Vitest, and Cypress.
-
-Current part-time client: [Toekomst.org](https://toekomst.org/), a Dutch platform for websites, email, webshops, hosting, and related services. I lead the Svelte frontend and contribute to Go services and Linux-based infrastructure.
 
 ## Systems
 
