@@ -13,19 +13,18 @@
   <strong>Amsterdam</strong>
 </p>
 
-I have 6+ years of professional production experience, mostly in product engineering. I am now deliberately extending that work into backend, systems, AI-native engineering, and infrastructure.
+I have 6+ years of professional production experience in product engineering. Current client work extends that into Go services and Linux-based infrastructure. Docker, cloud, and CI are the wider path.
 
-**Proven in production.** Product UI, design systems, API integration, and internal operational tooling with Vue, Nuxt, React, and TypeScript. Shipped with Thalex, DPG Media, ANWB Traffic Verkeer, and Van Lanschot Kempen.
+**Proven in production.** TypeScript, React, Vue, and Svelte. Shipped with Thalex, DPG Media, ANWB Verkeer, and Van Lanschot Kempen. Current part-time client is Toekomst.org.
 
-**Actively developing.** Python, Go, Linux, Docker, SQL, CI/CD, AWS, Kubernetes, self-hosted infrastructure, and observability. I am working through the Boot.dev DevOps path. That training is not a substitute for years of professional DevOps experience.
+**Still in study.** Python, Docker, SQL, CI/CD, AWS, and Kubernetes, through the Boot.dev DevOps path. That training is not a substitute for years in a DevOps role.
 
-Open to permanent roles and selective B2B engagements through J Dev Online, in the Netherlands, the UK, and the US.
+Open to full-time roles and selective B2B through JDev Online. Remote in Europe, open to relocation further afield.
 
 ## Selected Work
 
 - Portfolio: [j-dev.online](https://j-dev.online/)
 - Systems repository: [jonthedev/systems](https://github.com/jonthedev/systems)
-- GitHub: [jonthedev](https://github.com/jonthedev)
 
 ## Product UI
 
@@ -33,23 +32,19 @@ Product engineering is my strongest established area.
 
 At Thalex, internal operational tooling and developer-experience improvements contributed to a 25% increase in user onboarding efficiency.
 
-Work on ANWB Traffic Verkeer contributed to the Website van het Jaar 2022 award. The Traffic Verkeer style system moved from Less into styled-components.
+Work on ANWB Verkeer contributed to the Website van het Jaar 2022 award. The Traffic Verkeer style system moved from Less into styled-components.
 
-Production work also includes DPG Media and Van Lanschot Kempen. React and Next.js shipped in production at DPG Media, ANWB Traffic Verkeer, and Van Lanschot Kempen. The established stack around that work is Vue, Nuxt, TypeScript, Pinia, Vite, Tailwind CSS, Playwright, Vitest, and Cypress.
+Production work also includes DPG Media and Van Lanschot Kempen. React and Next.js shipped in production at DPG Media, ANWB Verkeer, and Van Lanschot Kempen. The established stack around that work is Vue, Nuxt, TypeScript, Pinia, Vite, Tailwind CSS, Playwright, Vitest, and Cypress.
 
-## Systems, Backend and Infrastructure
+Current part-time client: [Toekomst.org](https://toekomst.org/), a Dutch platform for websites, email, webshops, hosting, and related services. I lead the Svelte frontend and contribute to Go services and Linux-based infrastructure.
 
-This is the area I am actively developing. It sits apart from my production product work.
+## Systems
 
-Current study covers Python, Go, Linux, Docker, SQL, CI/CD, AWS, Kubernetes, self-hosted infrastructure, and observability. Course work and notes are in the [systems repository](https://github.com/jonthedev/systems). The Boot.dev DevOps path is in progress. Completed certificates are listed below. They record finished courses, not years in a DevOps role.
+Go and Linux are part of the current client work. The rest of that path is still study: Python, Docker, SQL, CI/CD, AWS, and Kubernetes. Course work and notes are in the [systems repository](https://github.com/jonthedev/systems). The Boot.dev DevOps path is in progress. Completed certificates are listed below. They record finished courses, not years in a DevOps role.
 
-## AI-Native Engineering
+## AI in the workflow
 
-I use Cursor as part of my engineering workflow, with local models through Ollama and Qwen.
-
-I co-organise the Home Lab Collective in Amsterdam. The group focuses on self-hosted infrastructure and local AI.
-
-I go to [Amsterdam AI Tinkerers](https://amsterdam.aitinkerers.org/) meetups to watch the demos, talk about the work, and keep up with what people are shipping. The wider network is [AI Tinkerers](https://aitinkerers.org/).
+I build with AI in the loop day to day, using tools like Cursor and Claude, while I still own the architecture, testing, and what ships.
 
 ## Credentials
 
@@ -65,6 +60,6 @@ Public Boot.dev profile: [boot.dev/u/jdev-online](https://www.boot.dev/u/jdev-on
 ## Availability
 
 - Based in Amsterdam
-- Open to permanent roles and selective B2B engagements through J Dev Online
-- Open to the Netherlands, the UK, and the US
+- Open to full-time roles and selective B2B through JDev Online
+- Remote in Europe, open to relocation further afield
 - Permanent Dutch resident and British passport holder. No visa sponsorship required for the Netherlands or the UK.
