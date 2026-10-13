@@ -23,12 +23,6 @@ Open to full-time roles and selective B2B through JDev Online. Remote in Europe,
 
 Permanent Dutch resident and British passport holder. No visa sponsorship required for the Netherlands or the UK.
 
-## Product UI
-
-At Thalex, internal operational tooling and developer-experience improvements contributed to a 25% increase in user onboarding efficiency.
-
-Work on ANWB Verkeer contributed to the Website van het Jaar 2022 award. The Traffic Verkeer style system moved from Less into styled-components.
-
 ## AI in the workflow
 
 I build with AI in the loop day to day, using tools like Cursor and Claude, while I still own the architecture, testing, and what ships.
