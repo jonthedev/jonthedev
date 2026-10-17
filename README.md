@@ -13,11 +13,11 @@
   <strong>Amsterdam</strong>
 </p>
 
-I have 6+ years of professional production experience in product engineering. Current client work is extending that foundation into Go services, Linux-based infrastructure and AI-powered systems.
+I have 6+ years of professional production experience in product engineering. Current client work is extending that foundation into Go services, Linux-based infrastructure and AI-native engineering.
 
 **Proven in production.** TypeScript, React, Vue and Svelte across high-traffic digital products. Shipped with Thalex, DPG Media, ANWB Verkeer and Van Lanschot Kempen.
 
-**Building toward systems engineering.** Developing my foundations in Python, Linux, Go, SQL, Docker, observability, AWS, CI/CD and Kubernetes through the Boot.dev DevOps path. The training is in progress and is not a substitute for years in a dedicated DevOps role. Notes and practical work are in the [systems repository](https://github.com/jonthedev/systems). Certificates are on the [Boot.dev profile](https://www.boot.dev/u/jdev-online) and on [j-dev.online](https://j-dev.online/#credentials).
+**Building toward systems engineering.** Developing my foundations in Python, Linux, Go, SQL, Docker, observability, AWS, CI/CD and Kubernetes through the Boot.dev DevOps path. The training is in progress, with earned certificates documenting milestones along the way. Notes and practical work are in the [systems repository](https://github.com/jonthedev/systems). Certificates are on the [Boot.dev profile](https://www.boot.dev/u/jdev-online) and on [j-dev.online](https://j-dev.online/#credentials).
 
 Open to full-time roles and selective B2B work through JDev Online. Based in Amsterdam, Netherlands, and focused primarily on Dutch-market opportunities and genuinely remote roles with a Dutch hiring setup.
 
