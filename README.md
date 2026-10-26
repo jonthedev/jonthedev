@@ -4,25 +4,32 @@
   </a>
 </p>
 
-<p align="center">
-  <strong>Jonathan Kaonga</strong><br />
-  Senior Full-Stack and Systems Engineer
-</p>
+# Jonathan Kaonga
 
-<p align="center">
-  <strong>Amsterdam</strong>
-</p>
+**Senior Full-Stack and Systems Engineer**  
+Amsterdam, Netherlands | [j-dev.online](https://j-dev.online)
 
-I have 6+ years of professional production experience in product engineering. Current client work is extending that foundation into Go services, Linux-based infrastructure and AI-native engineering.
+I have 6+ years of professional production experience engineering high-traffic web architectures, secure developer operations, and real-time interfaces. Current client work extends that architectural foundation into Go services, Linux-based infrastructure, and secure engineering access controls.
 
-**Proven in production.** TypeScript, React, Vue and Svelte across high-traffic digital products. Shipped with Thalex, DPG Media, ANWB Verkeer and Van Lanschot Kempen.
+### Proven in Production
 
-**Building toward systems engineering.** Developing my foundations in Python, Linux, Go, SQL, Docker, observability, AWS, CI/CD and Kubernetes through the Boot.dev DevOps path. The training is in progress, with earned certificates documenting milestones along the way. Notes and practical work are in the [systems repository](https://github.com/jonthedev/systems). Certificates are on the [Boot.dev profile](https://www.boot.dev/u/jdev-online) and on [j-dev.online](https://j-dev.online/#credentials).
+- Advanced interface and system engineering across TypeScript, React, Vue, Nuxt, and Svelte.
+- Shipped and stabilized high-volume product surfaces for Thalex, DPG Media, ANWB Verkeer, and Van Lanschot Kempen.
 
-Open to full-time roles and selective B2B work through JDev Online. Based in Amsterdam, Netherlands, and focused primarily on Dutch-market opportunities and genuinely remote roles with a Dutch hiring setup.
+### Continuous Systems Validation
 
-Permanent Dutch resident and British passport holder. No visa sponsorship required for the Netherlands or the UK.
+- Systematically expanding my capabilities across systems programming, database architecture, containerization, cloud networking, and infrastructure automation.
+- Active progression through the Boot.dev DevOps Engineer Path, verifying technical competencies across Python, Linux, Go, SQL, Docker, Observability, AWS, CI/CD, and Kubernetes.
+- Practical systems work, infrastructure configurations, and lab notes are actively documented in my `systems` repository.
 
-## AI in the workflow
+### AI in the Workflow
 
-I build with AI in the loop day to day, using tools like Cursor and Claude for implementation, debugging, review and iteration, while still owning the architecture, testing and decisions behind what ships.
+I build with AI in the loop day-to-day, deploying tools like Cursor, Claude, and local self-hosted open models (Ollama, Qwen) for implementation, debugging, review, and systems administration. This environment maximizes execution speed and leverage while I retain full responsibility for the architecture, testing, and ultimate quality of what ships.
+
+### Engagement
+
+Available for contract engineering, systems automation, and selective B2B engagements through JDev Online. I partner with cross-functional engineering teams and fast-scaling platforms globally to eliminate user-facing bottlenecks, stabilize product rollouts, and streamline secure developer operations.
+
+I am also open to high-leverage permanent engineering opportunities that value technical speed, infrastructure autonomy, and production execution.
+
+Based in Amsterdam, Netherlands, with a British passport and permanent Dutch residency (no visa sponsorship required for the NL or UK).
