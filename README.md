@@ -9,7 +9,7 @@
 **Senior Full-Stack and Systems Engineer**  
 Amsterdam, Netherlands | [j-dev.online](https://j-dev.online)
 
-I have 6+ years of professional production experience engineering high-traffic web architectures, secure developer operations, and real-time interfaces. Current client work extends that architectural foundation into Go services, Linux-based infrastructure, and secure engineering access controls.
+I have 6+ years of professional production experience engineering high-traffic web architectures, secure developer operations, and real-time interfaces. Current client work extends that architectural foundation into Linux-based infrastructure, secure engineering access controls, and automated operations.
 
 ### Proven in Production
 
