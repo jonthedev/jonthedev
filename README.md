@@ -14,7 +14,7 @@ I build responsive product surfaces and scale into system infrastructure.
 
 - **The Systems Roadmap:** Executing a structured infrastructure track via Boot.dev to validate advanced backend and cloud competencies. The [DevOps Engineer Path](https://www.boot.dev/u/jdev-online) is in progress.
 
-- **AI Execution:** <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" /> <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" /> Deploy Cursor Pro, Claude Code, and Ollama as daily collaborative multipliers to accelerate development and debugging while retaining absolute ownership over code quality.
+- **AI Execution:** <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" /> <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" /> I believe forward-thinking modern web development requires leveraging AI as a core productivity enhancer, so I use advanced AI tooling to accelerate how I solve data-centric problems, conduct technical research, and build out applications.
 
 ### Technical Stack
 
