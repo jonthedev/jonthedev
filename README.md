@@ -32,6 +32,6 @@ I bridge 6+ years of high-traffic frontend product architecture with automated, 
 
 ### Right to Work & Engagement
 
-- Open to permanent roles or B2B contracts through JDev Online (KVK 93792670)
+- Open to permanent roles or B2B contracts through [JDev Online](https://j-dev.online) (KVK 93792670)
 - Permanent Dutch resident and British passport holder (Full right to work in NL & UK, no visa required)
 - Open to visa sponsorship for roles in the US or Asia
